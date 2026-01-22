@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Yosef 👋
 
-<!--
-**Yosef-dev116/Yosef-dev116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student actively seeking a **co-op / internship position**.
+I'm interested in software development, IT support, and technical roles where I can learn and contribute.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- Python
+- Git & GitHub
+- Linux & Windows
+- Basic data structures and algorithms
+- File handling and command-line programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- **File Sharing Tool (Python)** – A simple file-sharing application built to practice Python and file handling.
+- **Python Practice Projects** – A collection of small Python programs and exercises.
+
+### 🎓 Currently
+- Studying Computer Science
+- Actively applying for co-op roles
+
+### 📫 Contact
+- Email: ymekonnen@upei.ca
+- LinkedIn: https://www.linkedin.com/in/yosefmekonnen/
