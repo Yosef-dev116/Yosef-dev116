@@ -1,7 +1,5 @@
 ## Hi, I'm Yosef 👋
 
-I'm a Computer Science student actively seeking a **co-op / internship position**.
-I'm interested in software development, IT support, and technical roles where I can learn and contribute.
 
 ### 💻 Skills
 - Python
