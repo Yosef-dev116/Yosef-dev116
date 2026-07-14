@@ -1,45 +1,39 @@
 # Hi, I'm Yosef 👋
 
-I'm a **Computer Science student at the University of Prince Edward Island (UPEI)** passionate about building full-stack web applications, solving real-world problems, and continuously improving as a software developer.
+I'm a Computer Science student at the **University of Prince Edward Island (UPEI)** with a passion for building full-stack web applications, solving real-world problems, and continuously improving as a software developer.
 
-I'm currently seeking **Software Developer** and **Co-op** opportunities where I can contribute, learn from experienced engineers, and build impactful products.
+I'm currently seeking **co-op and internship opportunities** where I can apply my technical skills, learn from experienced engineers, and contribute to meaningful software projects.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-
+## Languages
+- JavaScript (ES6+)
 - Python
-- JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-### Frontend
-
+## Frontend
 - React
 - Vite
 - Recharts
 
-### Backend
-
+## Backend
 - Node.js
 - Express.js
 - REST APIs
 
-### Databases & Storage
+## Databases & Storage
+- JSON File Storage
+- SQL *(currently learning PostgreSQL)*
 
-- JSON File Persistence
-- SQL (Learning PostgreSQL)
-
-### Tools
-
+## Tools
 - Git & GitHub
 - VS Code
 - Linux & Windows
 
-### Other
-
+## Other
 - OpenAI API Integration
 - CRUD Application Development
 - Responsive UI Design
@@ -48,34 +42,39 @@ I'm currently seeking **Software Developer** and **Co-op** opportunities where I
 
 # 🚀 Featured Projects
 
-### 💰 Personal Finance Dashboard
+## 💰 Personal Finance Dashboard
 
-A full-stack expense tracker built with React, Express, and Node.js.
+A full-stack expense tracking application built with **React, Express, Node.js, and the OpenAI API**.
 
-**Highlights**
+### Features
 
-- Complete CRUD functionality
+- Full CRUD transaction management
 - AI-powered financial insights
 - Interactive spending dashboard
-- Category visualization with charts
-- Persistent transaction storage
+- Expense visualization with charts
+- Persistent data storage
 - Responsive modern UI
 
-**Tech**
+**Tech Stack**
 
-React • Express • Node.js • Recharts • OpenAI API
+React • Node.js • Express • Recharts • OpenAI API
+
+🔗 Repository:
+https://github.com/Yosef-dev116/personal-finance-dashboard
+
+> *(Live demo coming soon.)*
 
 ---
 
-### ⚡ Real-Time Energy Dashboard
+## ⚡ Real-Time Energy Dashboard
 
-A full-stack dashboard for monitoring energy usage using Python and React.
+A full-stack dashboard for monitoring and visualizing energy usage using **Python** and **React**.
 
 ---
 
-### 🔭 Astronomy Equipment Simulation
+## 🔭 Astronomy Equipment Simulation
 
-A Python application demonstrating object-oriented programming principles through an astronomy equipment store simulation.
+A Python application demonstrating object-oriented programming concepts through an astronomy equipment store simulation.
 
 ---
 
@@ -89,26 +88,26 @@ A Python application demonstrating object-oriented programming principles throug
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
 - Build production-quality full-stack applications
-- Deploy multiple projects online
-- Contribute to open-source
-- Secure a co-op internship
-- Continue networking with developers and founders
+- Deploy projects to the cloud
+- Gain experience through a software co-op
+- Contribute to open-source projects
+- Continue growing as a full-stack developer
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** ymekonnen@upei.ca
+📧 **Email**
 
-💼 **LinkedIn:**  
+ymekonnen@upei.ca
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/yosefmekonnen/
 
-💻 **GitHub:**  
+💻 **GitHub**
+
 https://github.com/Yosef-dev116
-
----
-
-> "Build things that solve real problems, keep improving them, and never stop learning."
