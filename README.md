@@ -1,42 +1,58 @@
 # Hi, I'm Yosef 👋
 
-I'm a Computer Science student at the **University of Prince Edward Island (UPEI)** with a passion for building full-stack web applications, solving real-world problems, and continuously improving as a software developer.
+I'm a Computer Science student at the **University of Prince Edward Island (UPEI)** passionate about building full-stack web applications and solving real-world problems with modern web technologies.
 
-I'm currently seeking **co-op and internship opportunities** where I can apply my technical skills, learn from experienced engineers, and contribute to meaningful software projects.
+I'm currently seeking **Software Developer Co-op and Internship opportunities** where I can contribute to meaningful projects while continuing to grow as a full-stack engineer.
 
 ---
 
 # 💻 Tech Stack
 
 ## Languages
+
 - JavaScript (ES6+)
 - Python
 - HTML5
 - CSS3
+- SQL
 
 ## Frontend
+
 - React
 - Vite
 - Recharts
+- Responsive Design
 
 ## Backend
+
 - Node.js
 - Express.js
 - REST APIs
 
-## Databases & Storage
-- JSON File Storage
-- SQL *(currently learning PostgreSQL)*
+## Database
+
+- PostgreSQL
+- Neon
+
+## Cloud & Deployment
+
+- Vercel
+- Render
 
 ## Tools
-- Git & GitHub
+
+- Git
+- GitHub
 - VS Code
-- Linux & Windows
+- Linux
+- Windows
 
 ## Other
+
 - OpenAI API Integration
 - CRUD Application Development
-- Responsive UI Design
+- Database Design
+- RESTful API Development
 
 ---
 
@@ -44,31 +60,35 @@ I'm currently seeking **co-op and internship opportunities** where I can apply m
 
 ## 💰 Personal Finance Dashboard
 
-A full-stack expense tracking application built with **React, Express, Node.js, and the OpenAI API**.
+A production-ready full-stack finance application built with **React, Express, Node.js, PostgreSQL, and OpenAI**.
 
 ### Features
 
 - Full CRUD transaction management
+- PostgreSQL cloud database
 - AI-powered financial insights
-- Interactive spending dashboard
-- Expense visualization with charts
-- Persistent data storage
+- Monthly financial reports
+- Interactive analytics dashboard
 - Responsive modern UI
+- Production deployment
 
 **Tech Stack**
 
-React • Node.js • Express • Recharts • OpenAI API
+React • Node.js • Express • PostgreSQL • Neon • OpenAI • Recharts • Vercel • Render
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/Yosef-dev116/personal-finance-dashboard
 
-> *(Live demo coming soon.)*
+🌐 Live Demo
+
+https://personal-finance-dashboard-eosin-alpha.vercel.app
 
 ---
 
 ## ⚡ Real-Time Energy Dashboard
 
-A full-stack dashboard for monitoring and visualizing energy usage using **Python** and **React**.
+A full-stack dashboard for monitoring and visualizing energy usage using **React** and **Python**.
 
 ---
 
@@ -80,21 +100,22 @@ A Python application demonstrating object-oriented programming concepts through 
 
 # 🌱 Currently Learning
 
-- Advanced React
-- PostgreSQL
 - Authentication & Authorization
-- Cloud Deployment
+- TypeScript
 - Software Architecture
+- Testing
+- Docker
 
 ---
 
-# 🎯 Goals
+# 🎯 2026 Goals
 
-- Build production-quality full-stack applications
-- Deploy projects to the cloud
-- Gain experience through a software co-op
+- Build multiple production-ready full-stack applications
+- Strengthen backend architecture and database design skills
+- Learn Docker and containerized deployments
 - Contribute to open-source projects
-- Continue growing as a full-stack developer
+- Secure a Software Developer co-op
+- Continue improving as a full-stack engineer
 
 ---
 
