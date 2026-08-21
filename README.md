@@ -1,134 +1,50 @@
-# Hi, I'm Yosef 👋
+# Yosef Mekonnen
 
-I'm a Computer Science student at the **University of Prince Edward Island (UPEI)** passionate about building full-stack web applications and solving real-world problems with modern web technologies.
+Computer Science co-op student at the University of Prince Edward Island (Minor in Mathematics). I build full-stack apps and AI agents, usually with a bias toward verifying what the AI does rather than trusting it blindly.
 
-I'm currently seeking **Software Developer Co-op and Internship opportunities** where I can contribute to meaningful projects while continuing to grow as a full-stack engineer.
+Looking for a Fall 2026 Software Developer co-op.
 
----
+## Projects
 
-# 💻 Tech Stack
+**GatherBite** — Group food-ordering agent. LLM planner proposes the order, a deterministic verifier checks it before anything is finalized. Python, 246 tests. Adding a voice layer with Fish Audio S2.1 Pro next.
 
-## Languages
+**Translation Kiosk** — Real-time voice translation for hotel front desks, no app download. Pitched at Spark Tank 4.0 (PEI Tech Week 2026).
+[Repo](https://github.com/Yosef-dev116/translation-kiosk) · [Demo](https://translation-kiosk-yosefs-projects-ffbb7bee.vercel.app)
+Next.js, Web Speech API, MyMemory Translation API, Vercel
 
-- JavaScript (ES6+)
-- Python
-- HTML5
-- CSS3
-- SQL
+**Personal Finance Dashboard** — Full-stack finance app: CRUD transactions, AI-generated insights, analytics dashboard.
+[Repo](https://github.com/Yosef-dev116/personal-finance-dashboard) · [Demo](https://personal-finance-dashboard-eosin-alpha.vercel.app)
+React, Node.js, Express, PostgreSQL, Neon, OpenAI, Recharts
 
-## Frontend
+**Hybrid RAG System** — RAG over FastAPI's docs, combining dense and sparse retrieval.
 
-- React
-- Vite
-- Recharts
-- Responsive Design
+**DevProof** — GitHub organization analyzer for assessing developer readiness from repo/contribution patterns.
 
-## Backend
+**Real-Time Energy Dashboard** — Monitoring and visualizing energy usage. React, Python.
 
-- Node.js
-- Express.js
-- REST APIs
+**Astronomy Equipment Store Simulation** — OOP practice project in Python.
 
-## Database
+**Daily Ultimate Tic-Tac-Toe** — Daily-challenge variant of Ultimate Tic-Tac-Toe.
 
-- PostgreSQL
-- Neon
+## Stack
 
-## Cloud & Deployment
+Languages: JavaScript, Python, Java, HTML/CSS, SQL
+AI/LLM: OpenAI API, LLM agents, RAG, voice interfaces (Fish Audio)
+Frontend: React, Next.js, Vite, Recharts
+Backend: Node.js, Express, FastAPI
+Database: PostgreSQL, Neon
+Deployment: Vercel, Render
+Tools: Git, VS Code, Linux, LaTeX
 
-- Vercel
-- Render
+## Currently learning
+Auth, TypeScript, software architecture, testing, Docker
 
-## Tools
+## 2026 goals
+- Land a Fall 2026 co-op
+- Ship GatherBite's voice layer
+- Get the Translation Kiosk in front of a real hotel operator
+- Learn Docker
+- Contribute to an open-source project
 
-- Git
-- GitHub
-- VS Code
-- Linux
-- Windows
-
-## Other
-
-- OpenAI API Integration
-- CRUD Application Development
-- Database Design
-- RESTful API Development
-
----
-
-# 🚀 Featured Projects
-
-## 💰 Personal Finance Dashboard
-
-A production-ready full-stack finance application built with **React, Express, Node.js, PostgreSQL, and OpenAI**.
-
-### Features
-
-- Full CRUD transaction management
-- PostgreSQL cloud database
-- AI-powered financial insights
-- Monthly financial reports
-- Interactive analytics dashboard
-- Responsive modern UI
-- Production deployment
-
-**Tech Stack**
-
-React • Node.js • Express • PostgreSQL • Neon • OpenAI • Recharts • Vercel • Render
-
-🔗 Repository
-
-https://github.com/Yosef-dev116/personal-finance-dashboard
-
-🌐 Live Demo
-
-https://personal-finance-dashboard-eosin-alpha.vercel.app
-
----
-
-## ⚡ Real-Time Energy Dashboard
-
-A full-stack dashboard for monitoring and visualizing energy usage using **React** and **Python**.
-
----
-
-## 🔭 Astronomy Equipment Simulation
-
-A Python application demonstrating object-oriented programming concepts through an astronomy equipment store simulation.
-
----
-
-# 🌱 Currently Learning
-
-- Authentication & Authorization
-- TypeScript
-- Software Architecture
-- Testing
-- Docker
-
----
-
-# 🎯 2026 Goals
-
-- Build multiple production-ready full-stack applications
-- Strengthen backend architecture and database design skills
-- Learn Docker and containerized deployments
-- Contribute to open-source projects
-- Secure a Software Developer co-op
-- Continue improving as a full-stack engineer
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-ymekonnen@upei.ca
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/yosefmekonnen/
-
-💻 **GitHub**
-
-https://github.com/Yosef-dev116
+## Contact
+ymekonnen@upei.ca · [LinkedIn](https://www.linkedin.com/in/yosefmekonnen/) · [Portfolio](https://yosefmekonnen.dev)
