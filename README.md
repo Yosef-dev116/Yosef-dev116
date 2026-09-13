@@ -1,50 +1,72 @@
 # Yosef Mekonnen
 
-Computer Science co-op student at the University of Prince Edward Island (Minor in Mathematics). I build full-stack apps and AI agents, usually with a bias toward verifying what the AI does rather than trusting it blindly.
+AI-First Developer at the PEI IT Alliance and Computer Science co-op student at the University of Prince Edward Island, with a minor in Mathematics.
 
-Looking for a Fall 2026 Software Developer co-op.
+I build full-stack software and AI systems, usually with a bias toward verifying what the AI does instead of trusting it blindly. This fall, I am building software with AI at the PEI IT Alliance and supporting students as a Residence Life Advisor at UPEI.
 
-## Projects
+## What I'm working on
 
-**GatherBite** — Group food-ordering agent. LLM planner proposes the order, a deterministic verifier checks it before anything is finalized. Python, 246 tests. Adding a voice layer with Fish Audio S2.1 Pro next.
+- Building and learning as an AI-First Developer during my Fall 2026 co-op
+- Adding a voice layer to GatherBite, a group food-ordering agent with deterministic verification
+- Testing a real-time translation kiosk for hotel front desks after pitching it at Spark Tank 4.0
+- Improving how I design, test, and deploy reliable software
 
-**Translation Kiosk** — Real-time voice translation for hotel front desks, no app download. Pitched at Spark Tank 4.0 (PEI Tech Week 2026).
-[Repo](https://github.com/Yosef-dev116/translation-kiosk) · [Demo](https://translation-kiosk-yosefs-projects-ffbb7bee.vercel.app)
-Next.js, Web Speech API, MyMemory Translation API, Vercel
+## Selected projects
 
-**Personal Finance Dashboard** — Full-stack finance app: CRUD transactions, AI-generated insights, analytics dashboard.
-[Repo](https://github.com/Yosef-dev116/personal-finance-dashboard) · [Demo](https://personal-finance-dashboard-eosin-alpha.vercel.app)
-React, Node.js, Express, PostgreSQL, Neon, OpenAI, Recharts
+### [DevProof](https://github.com/Yosef-dev116/Devproof)
 
-**Hybrid RAG System** — RAG over FastAPI's docs, combining dense and sparse retrieval.
+An evidence-based GitHub analysis platform that scores engineering readiness against a fixed rubric using real repository activity and source code. Includes repo, resume-verification, and organization analysis modes.
 
-**DevProof** — GitHub organization analyzer for assessing developer readiness from repo/contribution patterns.
+Python · FastAPI · PostgreSQL · React · TypeScript · OpenAI API
 
-**Real-Time Energy Dashboard** — Monitoring and visualizing energy usage. React, Python.
+[Live demo](https://devproof-xi.vercel.app)
 
-**Astronomy Equipment Store Simulation** — OOP practice project in Python.
+### [FastAPI Docs Q&A](https://github.com/Yosef-dev116/fastapi-docs-rag)
 
-**Daily Ultimate Tic-Tac-Toe** — Daily-challenge variant of Ultimate Tic-Tac-Toe.
+A hybrid RAG system over FastAPI's documentation. It combines dense and BM25 retrieval, checks every citation with a second model call, and measures results against an 18-question evaluation set.
+
+Python · OpenAI API · ChromaDB · BM25 · Streamlit
+
+[Live demo](https://yosef-fastapi-docs-rag.streamlit.app)
+
+### [Personal Finance Dashboard](https://github.com/Yosef-dev116/personal-finance-dashboard)
+
+A full-stack finance application for managing transactions, reviewing monthly reports, exploring interactive charts, and generating AI-assisted financial insights.
+
+React · Node.js · Express · PostgreSQL · Neon · OpenAI API · Recharts
+
+[Live demo](https://personal-finance-dashboard-eosin-alpha.vercel.app)
+
+### [Ultimate Tic-Tac-Toe](https://github.com/Yosef-dev116/ultimate-tic-tac-toe)
+
+A mobile-first strategy game with a deterministic daily puzzle, a minimax opponent with alpha-beta pruning, and a Vitest suite covering the engine, AI, and puzzle generator.
+
+React · TypeScript · Vite · Vitest · Motion
+
+[Live demo](https://ultimate-tic-tac-toe-theta-five.vercel.app)
+
+## More recent work
+
+- **[GatherBite](https://github.com/Yosef-dev116/gatherbite)** — A group food-ordering agent where an LLM proposes an order and deterministic code verifies it before anything is finalized.
+- **Translation Kiosk** — Real-time voice translation for hotel front desks without an app download. [Live demo](https://translation-kiosk.vercel.app)
+- **[Real-Time Energy Dashboard](https://github.com/Yosef-dev116/Real-Time-Energy-Dashboard)** — A live energy-monitoring dashboard with a FastAPI backend and React visualizations. [Live demo](https://frontend-ten-chi-38.vercel.app)
 
 ## Stack
 
-Languages: JavaScript, Python, Java, HTML/CSS, SQL
-AI/LLM: OpenAI API, LLM agents, RAG, voice interfaces (Fish Audio)
-Frontend: React, Next.js, Vite, Recharts
-Backend: Node.js, Express, FastAPI
-Database: PostgreSQL, Neon
-Deployment: Vercel, Render
-Tools: Git, VS Code, Linux, LaTeX
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL
+- **Frontend:** React, Next.js, Vite, Motion, Recharts
+- **Backend:** FastAPI, Node.js, Express
+- **AI and retrieval:** OpenAI API, LLM agents, RAG, hybrid search, evaluation pipelines, voice interfaces
+- **Data and deployment:** PostgreSQL, Neon, ChromaDB, Docker, Vercel, Render
+- **Tools:** Git, GitHub, VS Code, Linux, LaTeX
 
-## Currently learning
-Auth, TypeScript, software architecture, testing, Docker
+## Current focus
 
-## 2026 goals
-- Land a Fall 2026 co-op
-- Ship GatherBite's voice layer
-- Get the Translation Kiosk in front of a real hotel operator
-- Learn Docker
+- Contribute useful software during my PEI IT Alliance co-op
+- Keep strengthening system design, testing, and deployment skills
+- Put the Translation Kiosk in front of a real hotel operator
 - Contribute to an open-source project
 
 ## Contact
-ymekonnen@upei.ca · [LinkedIn](https://www.linkedin.com/in/yosefmekonnen/) · [Portfolio](https://yosefmekonnen.dev)
+
+[Portfolio](https://yosefmekonnen.dev) · [LinkedIn](https://www.linkedin.com/in/yosefmekonnen/) · [Email](mailto:ymekonnen@upei.ca)
